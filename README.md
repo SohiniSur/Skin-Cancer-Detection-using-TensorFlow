@@ -45,3 +45,6 @@ These plots help visualize the model's performance and identify potential issues
 ## Overall Goal:
 
 The code aims to develop a robust image classification model that can accurately distinguish between cancerous and non-cancerous tissue. By leveraging the power of deep learning and a pre-trained model like EfficientNetB7, it seeks to automate the process of cancer detection and assist in medical diagnosis.
+
+## Dataset:
+The dataset used can be found in this link: https://drive.google.com/drive/folders/1z45H00A-YtmtjxaWWrCtD9tzB8UZ0DaW?usp=drive_link
